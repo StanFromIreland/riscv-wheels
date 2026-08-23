@@ -1,9 +1,11 @@
 import datetime as dt
 import json
+import re
 import requests_cache
 
 
 BASE_URL = "https://pypi.org/pypi"
+RISE_REGISTRY_URL = "https://pypi.riseproject.dev/simple"
 
 DEPRECATED_PACKAGES = {
     "BeautifulSoup",
@@ -26,6 +28,26 @@ def get_json_url(package_name):
     return BASE_URL + "/" + package_name + "/json"
 
 
+def normalize(package_name: str) -> str:
+    """Normalise a package name for a simple index URL.
+
+    https://packaging.python.org/en/latest/specifications/name-normalization/
+    """
+    return re.sub(r"[-_.]+", "-", package_name).lower()
+
+
+def in_rise_registry(package_name: str) -> bool:
+    """Whether the RISE riscv64 registry has wheels for this package."""
+    url = f"{RISE_REGISTRY_URL}/{normalize(package_name)}/"
+    try:
+        response = SESSION.get(url, allow_redirects=False)
+    except Exception as e:
+        print(f" ! Could not check the RISE registry for {package_name}: {e}")
+        return False
+
+    return response.status_code == 200
+
+
 def annotate_wheels(packages, to_chart: int) -> list[dict]:
     print("Getting wheel data...")
     num_packages = len(packages)
@@ -37,8 +59,9 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
             continue
 
         has_other_binary_wheel = False
-        has_free_threaded_wheel = False
+        has_riscv64_wheel = False
         has_pure_python_wheel = False
+        in_registry = False
         url = get_json_url(package["name"])
         response = SESSION.get(url)
         if response.status_code != 200:
@@ -52,30 +75,37 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
                 # The wheel filename is:
                 # {distribution}-{version}(-{build tag})?-{python tag}-{abi tag}-{platform tag}.whl
                 # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
-                abi_tag = download["filename"].removesuffix(".whl").split("-")[-2]
+                platform_tag = download["filename"].removesuffix(".whl").split("-")[-1]
 
-                if abi_tag.endswith("t") and abi_tag.startswith("cp31"):
-                    has_free_threaded_wheel = True
-                elif abi_tag != "none":
+                # A wheel may be tagged for several platforms at once, for
+                # example manylinux_2_39_riscv64.musllinux_1_2_riscv64
+                if "riscv64" in platform_tag:
+                    has_riscv64_wheel = True
+                elif platform_tag != "any":
                     has_other_binary_wheel = True
                 else:
                     has_pure_python_wheel = True
 
-        if has_free_threaded_wheel:
+        if has_riscv64_wheel:
             package["css_class"] = "success"
-            package["icon"] = "🧵"
+            package["icon"] = "\u2713"  # Check mark
         elif has_other_binary_wheel:
-            if not has_pure_python_wheel:
-                package["css_class"] = "warning"
-                package["icon"] = "\u2717"  # Ballot X
-            else:
+            in_registry = in_rise_registry(package["name"])
+            if in_registry:
+                package["css_class"] = "rise"
+                package["icon"] = "📦"
+            elif has_pure_python_wheel:
                 package["css_class"] = "pure-py"
                 package["icon"] = "🐍"
+            else:
+                package["css_class"] = "warning"
+                package["icon"] = "\u2717"  # Ballot X
         else:
             # Don't show packages with only sdists or pure Python wheels
             continue
 
-        package["free_threaded_wheel"] = has_free_threaded_wheel
+        package["riscv64_wheel"] = has_riscv64_wheel
+        package["rise_registry"] = in_registry
 
         keep.append(package)
         total += 1

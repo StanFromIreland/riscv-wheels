@@ -10,10 +10,16 @@
   fill: #ffc107;
 }
 
-.pure-py {
+.rise {
   stroke: #90EE90;
   stroke-width: 1;
   fill: #90EE90;
+}
+
+.pure-py {
+  stroke: #9ec5fe;
+  stroke-width: 1;
+  fill: #9ec5fe;
 }
 
 line.wheel-line {

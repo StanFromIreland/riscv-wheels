@@ -387,10 +387,10 @@
   {
    "downloads": 199878532,
    "name": "mypy",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 199045239,
@@ -499,18 +499,18 @@
   {
    "downloads": 115073622,
    "name": "asyncpg",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 114904797,
    "name": "pymupdf",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 112147750,
@@ -539,10 +539,10 @@
   {
    "downloads": 108727382,
    "name": "pytokens",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 107550466,
@@ -563,10 +563,10 @@
   {
    "downloads": 104845718,
    "name": "lz4",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 102480941,
@@ -587,18 +587,18 @@
   {
    "downloads": 102220607,
    "name": "pycryptodome",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 99380025,
    "name": "dulwich",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 94946095,
@@ -611,10 +611,10 @@
   {
    "downloads": 94740431,
    "name": "brotli",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 92535735,
@@ -635,10 +635,10 @@
   {
    "downloads": 86687388,
    "name": "ruamel-yaml-clib",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 86011939,
@@ -651,10 +651,10 @@
   {
    "downloads": 85768804,
    "name": "shapely",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 82214499,
@@ -667,10 +667,10 @@
   {
    "downloads": 80449982,
    "name": "uuid-utils",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 78950267,
@@ -747,10 +747,10 @@
   {
    "downloads": 69771135,
    "name": "cbor2",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 69292894,
@@ -763,10 +763,10 @@
   {
    "downloads": 66356928,
    "name": "zope-interface",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 64334607,
@@ -795,10 +795,10 @@
   {
    "downloads": 62249238,
    "name": "simplejson",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 59190867,
@@ -2881,5 +2881,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Tuesday, 25 August 2026, 10:28:45 UTC"
+ "last_update": "Wednesday, 26 August 2026, 10:33:04 UTC"
 }

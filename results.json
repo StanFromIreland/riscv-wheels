@@ -851,10 +851,10 @@
   {
    "downloads": 53370538,
    "name": "xgboost",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 53309834,
@@ -2881,5 +2881,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Friday, 28 August 2026, 21:07:21 UTC"
+ "last_update": "Saturday, 29 August 2026, 14:55:31 UTC"
 }

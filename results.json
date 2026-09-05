@@ -1939,10 +1939,10 @@
   {
    "downloads": 14151592,
    "name": "cachebox",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 13989229,
@@ -2881,5 +2881,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 04 September 2026, 13:58:57 UTC"
+ "last_update": "Saturday, 05 September 2026, 13:13:14 UTC"
 }

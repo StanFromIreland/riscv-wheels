@@ -2003,18 +2003,18 @@
   {
    "downloads": 11954987,
    "name": "libclang",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11933714,
    "name": "ctranslate2",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11917567,
@@ -2027,10 +2027,10 @@
   {
    "downloads": 11867128,
    "name": "chromadb",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11753395,
@@ -2395,10 +2395,10 @@
   {
    "downloads": 7229379,
    "name": "firecrawl-anydoc",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 7078256,
@@ -2555,10 +2555,10 @@
   {
    "downloads": 6407811,
    "name": "daft",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6400416,
@@ -2611,10 +2611,10 @@
   {
    "downloads": 5867524,
    "name": "fiona",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 5849216,
@@ -2659,10 +2659,10 @@
   {
    "downloads": 5608705,
    "name": "pyiceberg-core",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 5544143,
@@ -2881,5 +2881,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Sunday, 06 September 2026, 13:22:19 UTC"
+ "last_update": "Monday, 07 September 2026, 15:28:26 UTC"
 }

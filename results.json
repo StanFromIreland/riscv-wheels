@@ -2689,6 +2689,14 @@
    "rise_registry": true
   },
   {
+   "downloads": 5433606,
+   "name": "numpy-financial",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 5410211,
    "name": "selectolax",
    "css_class": "rise",
@@ -2871,15 +2879,7 @@
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
-  },
-  {
-   "downloads": 4728737,
-   "name": "blosc2",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
   }
  ],
- "last_update": "Monday, 14 September 2026, 16:07:24 UTC"
+ "last_update": "Tuesday, 15 September 2026, 14:36:33 UTC"
 }

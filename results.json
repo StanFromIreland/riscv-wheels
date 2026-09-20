@@ -2563,10 +2563,10 @@
   {
    "downloads": 6400416,
    "name": "cassandra-driver",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6312105,
@@ -2707,10 +2707,10 @@
   {
    "downloads": 5403120,
    "name": "bitsandbytes",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 5378866,
@@ -2881,5 +2881,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Saturday, 19 September 2026, 13:38:59 UTC"
+ "last_update": "Sunday, 20 September 2026, 13:55:01 UTC"
 }

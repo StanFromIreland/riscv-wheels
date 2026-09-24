@@ -265,6 +265,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 307965274,
+   "name": "wcwidth",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 292698850,
    "name": "hf-xet",
    "css_class": "rise",
@@ -2871,15 +2879,7 @@
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
-  },
-  {
-   "downloads": 4831334,
-   "name": "tensorflow-text",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
   }
  ],
- "last_update": "Wednesday, 23 September 2026, 14:37:02 UTC"
+ "last_update": "Thursday, 24 September 2026, 14:36:15 UTC"
 }

@@ -1659,10 +1659,10 @@
   {
    "downloads": 14211706,
    "name": "pycares",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 14137290,
@@ -2881,5 +2881,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Sunday, 04 October 2026, 15:06:52 UTC"
+ "last_update": "Monday, 05 October 2026, 19:01:48 UTC"
 }

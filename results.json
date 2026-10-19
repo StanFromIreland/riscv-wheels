@@ -2329,14 +2329,6 @@
    "rise_registry": true
   },
   {
-   "downloads": 5839972,
-   "name": "pymupdf-layout",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
    "downloads": 5770564,
    "name": "whenever",
    "css_class": "pure-py",
@@ -2879,7 +2871,15 @@
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
+  },
+  {
+   "downloads": 3618666,
+   "name": "mitmproxy-rs",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
   }
  ],
- "last_update": "Sunday, 18 October 2026, 13:45:21 UTC"
+ "last_update": "Monday, 19 October 2026, 16:48:28 UTC"
 }

@@ -1,7 +1,7 @@
 {
  "data": [
   {
-   "downloads": 1186581556,
+   "downloads": 1450738525,
    "name": "charset-normalizer",
    "css_class": "success",
    "icon": "\u2713",
@@ -9,7 +9,7 @@
    "rise_registry": false
   },
   {
-   "downloads": 1070154291,
+   "downloads": 1317045984,
    "name": "cryptography",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -17,7 +17,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 949615436,
+   "downloads": 1189919852,
    "name": "cffi",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -25,7 +25,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 910851659,
+   "downloads": 1150102481,
    "name": "pyyaml",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -33,7 +33,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 808518099,
+   "downloads": 1046454887,
    "name": "pydantic-core",
    "css_class": "success",
    "icon": "\u2713",
@@ -41,7 +41,7 @@
    "rise_registry": false
   },
   {
-   "downloads": 801552837,
+   "downloads": 1025805630,
    "name": "numpy",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -49,15 +49,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 619205877,
-   "name": "protobuf",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 614567882,
+   "downloads": 816280940,
    "name": "markupsafe",
    "css_class": "success",
    "icon": "\u2713",
@@ -65,7 +57,15 @@
    "rise_registry": false
   },
   {
-   "downloads": 547072268,
+   "downloads": 726176210,
+   "name": "protobuf",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 668774916,
    "name": "pandas",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -73,47 +73,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 472045565,
-   "name": "multidict",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 463583334,
-   "name": "rpds-py",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 459889343,
-   "name": "yarl",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 455690685,
-   "name": "aiohttp",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 442913585,
-   "name": "propcache",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 425694980,
+   "downloads": 643243505,
    "name": "pillow",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -121,15 +81,47 @@
    "rise_registry": true
   },
   {
-   "downloads": 417051290,
-   "name": "frozenlist",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "downloads": 612139447,
+   "name": "rpds-py",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
-   "downloads": 398431816,
+   "downloads": 556032554,
+   "name": "multidict",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 544736474,
+   "name": "aiohttp",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 540070946,
+   "name": "yarl",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 519223742,
+   "name": "propcache",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 507255617,
    "name": "websockets",
    "css_class": "success",
    "icon": "\u2713",
@@ -137,7 +129,15 @@
    "rise_registry": false
   },
   {
-   "downloads": 392118252,
+   "downloads": 490753544,
+   "name": "frozenlist",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 455669990,
    "name": "wrapt",
    "css_class": "success",
    "icon": "\u2713",
@@ -145,15 +145,7 @@
    "rise_registry": false
   },
   {
-   "downloads": 369974693,
-   "name": "greenlet",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 333202119,
+   "downloads": 429406703,
    "name": "pyarrow",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -161,23 +153,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 331730354,
-   "name": "sqlalchemy",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 319720146,
-   "name": "grpcio",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 313948323,
+   "downloads": 413464934,
    "name": "lxml",
    "css_class": "success",
    "icon": "\u2713",
@@ -185,31 +161,7 @@
    "rise_registry": false
   },
   {
-   "downloads": 312958613,
-   "name": "jiter",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 309895354,
-   "name": "regex",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 305158420,
-   "name": "watchfiles",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 301403135,
+   "downloads": 396472971,
    "name": "ruff",
    "css_class": "success",
    "icon": "\u2713",
@@ -217,7 +169,47 @@
    "rise_registry": false
   },
   {
-   "downloads": 300069551,
+   "downloads": 394679025,
+   "name": "sqlalchemy",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 393416416,
+   "name": "jiter",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 392191455,
+   "name": "greenlet",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 370169739,
+   "name": "grpcio",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 367923635,
+   "name": "regex",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 365201508,
    "name": "scipy",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -225,7 +217,15 @@
    "rise_registry": true
   },
   {
-   "downloads": 288818629,
+   "downloads": 353451654,
+   "name": "watchfiles",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 352457256,
    "name": "psutil",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -233,7 +233,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 287744815,
+   "downloads": 328644834,
    "name": "coverage",
    "css_class": "success",
    "icon": "\u2713",
@@ -241,15 +241,7 @@
    "rise_registry": false
   },
   {
-   "downloads": 274144944,
-   "name": "tomli",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 240279397,
+   "downloads": 283532049,
    "name": "wcwidth",
    "css_class": "pure-py",
    "icon": "\ud83d\udc0d",
@@ -257,15 +249,7 @@
    "rise_registry": false
   },
   {
-   "downloads": 212349802,
-   "name": "httptools",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 211131340,
+   "downloads": 280953133,
    "name": "uvloop",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -273,31 +257,23 @@
    "rise_registry": true
   },
   {
-   "downloads": 208775354,
-   "name": "psycopg2-binary",
+   "downloads": 275365180,
+   "name": "httptools",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 193313294,
-   "name": "msgpack",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 193015590,
-   "name": "fonttools",
+   "downloads": 273809440,
+   "name": "tomli",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 188604448,
+   "downloads": 234446922,
    "name": "hf-xet",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -305,15 +281,31 @@
    "rise_registry": true
   },
   {
-   "downloads": 188102242,
-   "name": "scikit-learn",
+   "downloads": 234391052,
+   "name": "fonttools",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 180495295,
+   "downloads": 232767718,
+   "name": "msgpack",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 232463285,
+   "name": "psycopg2-binary",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 218459023,
    "name": "orjson",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -321,7 +313,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 179033638,
+   "downloads": 212211718,
    "name": "tiktoken",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -329,7 +321,15 @@
    "rise_registry": true
   },
   {
-   "downloads": 166389324,
+   "downloads": 210511784,
+   "name": "scikit-learn",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 205008768,
    "name": "tokenizers",
    "css_class": "success",
    "icon": "\u2713",
@@ -337,31 +337,7 @@
    "rise_registry": false
   },
   {
-   "downloads": 166088922,
-   "name": "pynacl",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 165621246,
-   "name": "chardet",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 162125416,
-   "name": "matplotlib",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 159257721,
+   "downloads": 198973832,
    "name": "mypy",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -369,7 +345,15 @@
    "rise_registry": true
   },
   {
-   "downloads": 157498843,
+   "downloads": 186363242,
+   "name": "matplotlib",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 185684888,
    "name": "zstandard",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -377,63 +361,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 156347414,
-   "name": "kiwisolver",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 154218667,
-   "name": "bcrypt",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 140796400,
-   "name": "google-crc32c",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 139594438,
-   "name": "contourpy",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 138194624,
-   "name": "grpcio-tools",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 131960872,
-   "name": "xxhash",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 128867870,
-   "name": "uv",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 126278635,
+   "downloads": 183898067,
    "name": "psycopg-binary",
    "css_class": "success",
    "icon": "\u2713",
@@ -441,7 +369,55 @@
    "rise_registry": false
   },
   {
-   "downloads": 124732283,
+   "downloads": 180233524,
+   "name": "pynacl",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 177676078,
+   "name": "kiwisolver",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 172781905,
+   "name": "bcrypt",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 170288347,
+   "name": "chardet",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 168590029,
+   "name": "google-crc32c",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 166328131,
+   "name": "contourpy",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 162512903,
    "name": "librt",
    "css_class": "success",
    "icon": "\u2713",
@@ -449,31 +425,31 @@
    "rise_registry": false
   },
   {
-   "downloads": 121721294,
-   "name": "multiprocess",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 119792814,
-   "name": "rapidfuzz",
+   "downloads": 160865402,
+   "name": "xxhash",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 114824778,
-   "name": "black",
+   "downloads": 157724063,
+   "name": "grpcio-tools",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 106776505,
+   "downloads": 155606520,
+   "name": "uv",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 136646405,
    "name": "asyncpg",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -481,23 +457,23 @@
    "rise_registry": true
   },
   {
-   "downloads": 103373898,
-   "name": "snowflake-connector-python",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 100712647,
-   "name": "tornado",
+   "downloads": 133787978,
+   "name": "rapidfuzz",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 94993155,
+   "downloads": 125928561,
+   "name": "black",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 124971918,
    "name": "playwright",
    "css_class": "warning",
    "icon": "\u2717",
@@ -505,39 +481,7 @@
    "rise_registry": false
   },
   {
-   "downloads": 91223515,
-   "name": "isort",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 91222162,
-   "name": "litellm",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 91138989,
-   "name": "pyzmq",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 87261951,
-   "name": "watchdog",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 85271565,
+   "downloads": 118343922,
    "name": "pymupdf",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -545,7 +489,31 @@
    "rise_registry": true
   },
   {
-   "downloads": 84886808,
+   "downloads": 117669398,
+   "name": "tornado",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 112950671,
+   "name": "snowflake-connector-python",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 109881085,
+   "name": "pyzmq",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 109196691,
    "name": "brotli",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -553,71 +521,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 80224813,
-   "name": "debugpy",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 80004940,
-   "name": "cython",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 78021669,
-   "name": "ast-serialize",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 75441790,
-   "name": "lz4",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 73195226,
-   "name": "pytokens",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 72673120,
-   "name": "safetensors",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 71697985,
-   "name": "cbor2",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 71576401,
-   "name": "uuid-utils",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 70379534,
+   "downloads": 107512090,
    "name": "onnxruntime",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -625,63 +529,63 @@
    "rise_registry": true
   },
   {
-   "downloads": 69586596,
-   "name": "pycryptodome",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 67032433,
-   "name": "fastuuid",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 66109460,
-   "name": "pymongo",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 64868988,
-   "name": "ruamel-yaml-clib",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 63452431,
-   "name": "psycopg2",
+   "downloads": 104553967,
+   "name": "watchdog",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 61897186,
-   "name": "argon2-cffi-bindings",
+   "downloads": 103834459,
+   "name": "ast-serialize",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 61685076,
-   "name": "torch",
+   "downloads": 100336915,
+   "name": "litellm",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 61185795,
+   "downloads": 100154130,
+   "name": "isort",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 92347965,
+   "name": "debugpy",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 89944668,
+   "name": "cython",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 89829015,
+   "name": "safetensors",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 89823307,
    "name": "pypdfium2",
    "css_class": "success",
    "icon": "\u2713",
@@ -689,7 +593,63 @@
    "rise_registry": false
   },
   {
-   "downloads": 59555741,
+   "downloads": 89506527,
+   "name": "multiprocess",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 86291735,
+   "name": "lz4",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 85204152,
+   "name": "pytokens",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 84859985,
+   "name": "uuid-utils",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 82381928,
+   "name": "pycryptodome",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 80477119,
+   "name": "fastuuid",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 78009438,
+   "name": "argon2-cffi-bindings",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 75346353,
    "name": "shapely",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -697,23 +657,23 @@
    "rise_registry": true
   },
   {
-   "downloads": 57381244,
-   "name": "caio",
+   "downloads": 74660938,
+   "name": "cbor2",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 56071545,
-   "name": "mmh3",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
+   "downloads": 72334802,
+   "name": "pymongo",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
   },
   {
-   "downloads": 55118216,
+   "downloads": 71401791,
    "name": "duckdb",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -721,15 +681,23 @@
    "rise_registry": true
   },
   {
-   "downloads": 53541176,
-   "name": "pendulum",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "downloads": 69533634,
+   "name": "ruamel-yaml-clib",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 69236164,
+   "name": "mmh3",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 52357493,
+   "downloads": 65857275,
    "name": "hypothesis",
    "css_class": "success",
    "icon": "\u2713",
@@ -737,15 +705,7 @@
    "rise_registry": false
   },
   {
-   "downloads": 52272647,
-   "name": "numba",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 52183739,
+   "downloads": 65559642,
    "name": "llvmlite",
    "css_class": "warning",
    "icon": "\u2717",
@@ -753,23 +713,39 @@
    "rise_registry": false
   },
   {
-   "downloads": 50164006,
-   "name": "dulwich",
+   "downloads": 65546083,
+   "name": "numba",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 64846937,
+   "name": "psycopg2",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 63965383,
+   "name": "caio",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 50024324,
-   "name": "zope-interface",
+   "downloads": 63457465,
+   "name": "torch",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 49103701,
+   "downloads": 58752791,
    "name": "backports-zstd",
    "css_class": "success",
    "icon": "\u2713",
@@ -777,23 +753,15 @@
    "rise_registry": false
   },
   {
-   "downloads": 48510727,
-   "name": "tree-sitter",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
+   "downloads": 56747901,
+   "name": "pendulum",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 47477810,
-   "name": "pycryptodomex",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 44836456,
+   "downloads": 56305483,
    "name": "polars-runtime-32",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -801,31 +769,23 @@
    "rise_registry": true
   },
   {
-   "downloads": 43881894,
-   "name": "thrift",
+   "downloads": 55954386,
+   "name": "zope-interface",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 43061838,
-   "name": "triton",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "downloads": 54852408,
+   "name": "dulwich",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
-   "downloads": 42202185,
-   "name": "simplejson",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 42145752,
+   "downloads": 53505737,
    "name": "ormsgpack",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -833,55 +793,15 @@
    "rise_registry": true
   },
   {
-   "downloads": 41861702,
-   "name": "confluent-kafka",
+   "downloads": 52942273,
+   "name": "pycryptodomex",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 41094157,
-   "name": "ty",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 40201001,
-   "name": "ijson",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 39552130,
-   "name": "ddtrace",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 38792091,
-   "name": "temporalio",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 38116666,
-   "name": "pymssql",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 37736806,
+   "downloads": 51506041,
    "name": "opencv-python-headless",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -889,159 +809,39 @@
    "rise_registry": true
   },
   {
-   "downloads": 37702007,
-   "name": "libcst",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 34519824,
-   "name": "nh3",
+   "downloads": 49715635,
+   "name": "ty",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 34155421,
-   "name": "amazon-ion",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 33370668,
-   "name": "setproctitle",
+   "downloads": 49216532,
+   "name": "simplejson",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 33267817,
-   "name": "cuda-bindings",
+   "downloads": 48742285,
+   "name": "triton",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 33081519,
-   "name": "curl-cffi",
+   "downloads": 47859194,
+   "name": "tree-sitter",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 32528527,
-   "name": "statsmodels",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 31200307,
-   "name": "cramjam",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 31099880,
-   "name": "zopfli",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 30776632,
-   "name": "opencv-python",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 30569522,
-   "name": "rignore",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 30396434,
-   "name": "fastavro",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 30319569,
-   "name": "xgboost",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 30034208,
-   "name": "claude-agent-sdk",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 29900743,
-   "name": "msgspec",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 29565308,
-   "name": "fastar",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 29310972,
-   "name": "mysql-connector-python",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 28908289,
-   "name": "lazy-object-proxy",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 28716411,
-   "name": "ujson",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 28505009,
+   "downloads": 47439258,
    "name": "av",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -1049,15 +849,127 @@
    "rise_registry": true
   },
   {
-   "downloads": 28453813,
-   "name": "nvidia-nccl-cu13",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "downloads": 47115105,
+   "name": "ddtrace",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 46576949,
+   "name": "ijson",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 45990772,
+   "name": "confluent-kafka",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 45129306,
+   "name": "thrift",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 44598698,
+   "name": "cedarpy",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 43626540,
+   "name": "temporalio",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 41242586,
+   "name": "nh3",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 28341917,
+   "downloads": 39859124,
+   "name": "zopfli",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 39549995,
+   "name": "libcst",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 39139856,
+   "name": "pymssql",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 38637344,
+   "name": "rignore",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 37397754,
+   "name": "fastar",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 37324026,
+   "name": "msgspec",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 37197435,
+   "name": "setproctitle",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 37142785,
+   "name": "statsmodels",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 37057587,
    "name": "hiredis",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -1065,15 +977,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 28296908,
-   "name": "nvidia-nccl-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 28132894,
+   "downloads": 35926941,
    "name": "ml-dtypes",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -1081,239 +985,31 @@
    "rise_registry": true
   },
   {
-   "downloads": 27702343,
-   "name": "pyodbc",
+   "downloads": 35075392,
+   "name": "opencv-python",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 27413633,
-   "name": "clickhouse-connect",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 27364345,
-   "name": "nvidia-cudnn-cu13",
+   "downloads": 34928356,
+   "name": "cuda-bindings",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 27335824,
-   "name": "sentencepiece",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 26805515,
-   "name": "h5py",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 26609023,
-   "name": "pyroaring",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 25868724,
-   "name": "gevent",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 25776401,
-   "name": "crc32c",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 25221609,
-   "name": "nvidia-nvjitlink",
+   "downloads": 34809535,
+   "name": "claude-agent-sdk",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 24967854,
-   "name": "scikit-image",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 24508235,
-   "name": "nvidia-cublas",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 24241174,
-   "name": "nvidia-cusparselt-cu13",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 24121698,
-   "name": "nvidia-nvshmem-cu13",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 23952487,
-   "name": "pyrsistent",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 23792286,
-   "name": "nvidia-cuda-nvrtc",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 23701653,
-   "name": "nvidia-cufft",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 23640143,
-   "name": "nvidia-cusolver",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 23589015,
-   "name": "nvidia-cusparse",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 23521372,
-   "name": "nvidia-cuda-runtime",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 23295029,
-   "name": "nvidia-cuda-cupti",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 23101737,
-   "name": "nvidia-curand",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 23040445,
-   "name": "ninja",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 22872493,
-   "name": "soundfile",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 22820660,
-   "name": "nvidia-cufile",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 22653552,
-   "name": "nvidia-nvtx",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 21893761,
-   "name": "lupa",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 21727609,
-   "name": "spacy",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 21329157,
-   "name": "murmurhash",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 21295279,
-   "name": "thinc",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 21176947,
+   "downloads": 34405360,
    "name": "grimp",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -1321,127 +1017,95 @@
    "rise_registry": true
   },
   {
-   "downloads": 21048544,
-   "name": "pyproj",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 21038598,
-   "name": "blis",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 20888662,
-   "name": "srsly",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 20801914,
-   "name": "preshed",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 20743759,
-   "name": "cymem",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 20612594,
-   "name": "awscrt",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 20409121,
-   "name": "py-spy",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 19899360,
-   "name": "pyiceberg",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 19811394,
-   "name": "time-machine",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 19003772,
-   "name": "dbt-extractor",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 18946453,
-   "name": "semgrep",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 18929207,
-   "name": "lightgbm",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 18541469,
-   "name": "google-re2",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 18388545,
-   "name": "oracledb",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 17983744,
-   "name": "pybase64",
+   "downloads": 34176349,
+   "name": "curl-cffi",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 17803942,
+   "downloads": 33700380,
+   "name": "fastavro",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 33492834,
+   "name": "pyroaring",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 33355605,
+   "name": "h5py",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 33270295,
+   "name": "lazy-object-proxy",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 33237450,
+   "name": "soundfile",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 33209286,
+   "name": "clickhouse-connect",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 33203572,
+   "name": "amazon-ion",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 32945017,
+   "name": "cramjam",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 32497230,
+   "name": "xgboost",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 31170868,
+   "name": "nvidia-nccl-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 30632422,
    "name": "pillow-heif",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -1449,159 +1113,263 @@
    "rise_registry": true
   },
   {
-   "downloads": 17540745,
-   "name": "maxminddb",
+   "downloads": 30245480,
+   "name": "nvidia-nccl-cu13",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 30139455,
+   "name": "ujson",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 17148394,
-   "name": "nodejs-wheel-binaries",
+   "downloads": 30132311,
+   "name": "pyodbc",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 16947731,
-   "name": "frozendict",
+   "downloads": 29786299,
+   "name": "sentencepiece",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 28873473,
+   "name": "mysql-connector-python",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 28704630,
+   "name": "ninja",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 16944664,
-   "name": "magika",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 16428646,
-   "name": "mysqlclient",
+   "downloads": 28682996,
+   "name": "nvidia-cudnn-cu13",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 16305299,
-   "name": "prek",
+   "downloads": 28269478,
+   "name": "gevent",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 16297237,
-   "name": "torchvision",
+   "downloads": 27713270,
+   "name": "scikit-image",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 27590235,
+   "name": "nvidia-cublas",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 16275292,
-   "name": "maturin",
+   "downloads": 26835861,
+   "name": "nvidia-nvjitlink",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 26438980,
+   "name": "nvidia-nvshmem-cu13",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 26407612,
+   "name": "lupa",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 16216037,
-   "name": "sounddevice",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 15829473,
-   "name": "bitarray",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 15821343,
-   "name": "levenshtein",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 15497466,
-   "name": "tree-sitter-languages",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 15481417,
-   "name": "uv-build",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 15421135,
-   "name": "nvidia-cudnn-cu12",
+   "downloads": 26347447,
+   "name": "nvidia-cuda-nvrtc",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 15265459,
-   "name": "nvidia-cublas-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 15024688,
-   "name": "pywavelets",
+   "downloads": 26333639,
+   "name": "pyiceberg",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 14619634,
-   "name": "deptry",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 14568825,
-   "name": "nvidia-cuda-nvrtc-cu12",
+   "downloads": 26273448,
+   "name": "nvidia-cufft",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 14560205,
-   "name": "blake3",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
+   "downloads": 26142352,
+   "name": "nvidia-cusparselt-cu13",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 14465558,
+   "downloads": 26138118,
+   "name": "nvidia-cusolver",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 26095251,
+   "name": "nvidia-cusparse",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 25885170,
+   "name": "nvidia-cuda-runtime",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 25718776,
+   "name": "pyproj",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 25717892,
+   "name": "nvidia-cuda-cupti",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 25220111,
+   "name": "awscrt",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 25059599,
+   "name": "nvidia-cufile",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 24853561,
+   "name": "nvidia-nvtx",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 24244662,
+   "name": "nvidia-curand",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 24232146,
+   "name": "pyrsistent",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 23314170,
+   "name": "spacy",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 23181783,
+   "name": "murmurhash",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 23163838,
+   "name": "semgrep",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 22942229,
+   "name": "thinc",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 22918105,
+   "name": "srsly",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 22845711,
    "name": "imageio-ffmpeg",
    "css_class": "warning",
    "icon": "\u2717",
@@ -1609,207 +1377,15 @@
    "rise_registry": false
   },
   {
-   "downloads": 14390811,
-   "name": "nvidia-cusparse-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 14354022,
-   "name": "nvidia-cusolver-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 14350810,
-   "name": "nvidia-cufft-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 14331469,
-   "name": "wandb",
+   "downloads": 22728213,
+   "name": "blis",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 14243563,
-   "name": "nvidia-cuda-runtime-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 14217457,
-   "name": "h3",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 14211706,
-   "name": "pycares",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 14137290,
-   "name": "nvidia-nvjitlink-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 14017332,
-   "name": "jpype1",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 13987433,
-   "name": "nvidia-curand-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 13910224,
-   "name": "nvidia-cuda-cupti-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 13816269,
-   "name": "pywin32",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 13721530,
-   "name": "cchardet",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 13505606,
-   "name": "aiokafka",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 13404115,
-   "name": "tree-sitter-bash",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 13378597,
-   "name": "ray",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 13277758,
-   "name": "nvidia-nvtx-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 13097633,
-   "name": "onnx",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 12928351,
-   "name": "pyogrio",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 12678342,
-   "name": "tree-sitter-javascript",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 12620030,
-   "name": "cmake",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 12367238,
-   "name": "patchelf",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 12303691,
-   "name": "faiss-cpu",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 12297262,
-   "name": "tensorboard-data-server",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 11955333,
-   "name": "tensorflow",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 11816014,
+   "downloads": 22651952,
    "name": "ctranslate2",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -1817,15 +1393,367 @@
    "rise_registry": true
   },
   {
-   "downloads": 11658408,
-   "name": "numexpr",
+   "downloads": 22561231,
+   "name": "preshed",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 11587332,
+   "downloads": 22520523,
+   "name": "cymem",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 22319116,
+   "name": "time-machine",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 22052117,
+   "name": "lightgbm",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 21694276,
+   "name": "dbt-extractor",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 21264531,
+   "name": "pybase64",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 21040302,
+   "name": "nodejs-wheel-binaries",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 21026335,
+   "name": "google-re2",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 20326421,
+   "name": "maxminddb",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 20142141,
+   "name": "oracledb",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 20030452,
+   "name": "py-spy",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 19681741,
+   "name": "nvidia-cudnn-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 19631812,
+   "name": "magika",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 19457726,
+   "name": "uv-build",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 19340240,
+   "name": "nvidia-cublas-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 18742688,
+   "name": "wandb",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 18349529,
+   "name": "cchardet",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 18145874,
+   "name": "nvidia-cuda-nvrtc-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17798181,
+   "name": "nvidia-cufft-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17768205,
+   "name": "nvidia-cusparse-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17766990,
+   "name": "pywin32",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17685723,
+   "name": "nvidia-cusolver-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17553682,
+   "name": "nvidia-nvjitlink-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17479665,
+   "name": "torchvision",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17428808,
+   "name": "nvidia-cuda-runtime-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17336215,
+   "name": "nvidia-curand-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17298744,
+   "name": "blake3",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17257813,
+   "name": "pycares",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17090139,
+   "name": "maturin",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 17063658,
+   "name": "nvidia-cuda-cupti-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 16843779,
+   "name": "bitarray",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 16841261,
+   "name": "mysqlclient",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 16737029,
+   "name": "levenshtein",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 16594722,
+   "name": "prek",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 16571343,
+   "name": "onnx",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 16480936,
+   "name": "cmake",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 16370511,
+   "name": "nvidia-nvtx-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 15916404,
+   "name": "ray",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 15839465,
+   "name": "h3",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 15824751,
+   "name": "frozendict",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 15235708,
+   "name": "deptry",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 14965259,
+   "name": "pyogrio",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 14963690,
+   "name": "tree-sitter-javascript",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 14806724,
+   "name": "sounddevice",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 14729633,
+   "name": "jpype1",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 14699903,
    "name": "nvidia-cusparselt-cu12",
    "css_class": "warning",
    "icon": "\u2717",
@@ -1833,79 +1761,39 @@
    "rise_registry": false
   },
   {
-   "downloads": 11282057,
-   "name": "cachebox",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
+   "downloads": 14437662,
+   "name": "tensorflow",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 11211169,
-   "name": "obstore",
+   "downloads": 14344966,
+   "name": "numexpr",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 11210695,
-   "name": "memray",
+   "downloads": 14106286,
+   "name": "pywavelets",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 10985589,
-   "name": "clickhouse-driver",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
+   "downloads": 13957158,
+   "name": "tensorboard-data-server",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
    "riscv64_wheel": false,
-   "rise_registry": true
+   "rise_registry": false
   },
   {
-   "downloads": 10979725,
-   "name": "pyinstaller",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 10930930,
-   "name": "geventhttpclient",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 10654974,
-   "name": "granian",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 10297104,
-   "name": "pyroscope-io",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 10161795,
-   "name": "pyinstrument",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 10082805,
+   "downloads": 13839253,
    "name": "soxr",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -1913,23 +1801,15 @@
    "rise_registry": true
   },
   {
-   "downloads": 9945618,
-   "name": "fastparquet",
+   "downloads": 13685023,
+   "name": "granian",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 9943889,
-   "name": "pikepdf",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 9440611,
+   "downloads": 13257375,
    "name": "pyclipper",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -1937,23 +1817,39 @@
    "rise_registry": true
   },
   {
-   "downloads": 9437809,
-   "name": "deltalake",
+   "downloads": 13193264,
+   "name": "cachebox",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 13188068,
+   "name": "aiokafka",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 9095281,
-   "name": "tree-sitter-c",
+   "downloads": 13149692,
+   "name": "pyroscope-io",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 9060253,
+   "downloads": 12988053,
+   "name": "faiss-cpu",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 12911304,
    "name": "tree-sitter-python",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -1961,39 +1857,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 9058699,
-   "name": "xmlsec",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 8991052,
-   "name": "shap",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 8976568,
-   "name": "primp",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 8916499,
-   "name": "jellyfish",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 8748145,
+   "downloads": 12690741,
    "name": "tree-sitter-typescript",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -2001,47 +1865,71 @@
    "rise_registry": true
   },
   {
-   "downloads": 8676028,
-   "name": "pyppmd",
+   "downloads": 12403658,
+   "name": "geventhttpclient",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 8617566,
-   "name": "pybcj",
+   "downloads": 12322484,
+   "name": "fastparquet",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 8585133,
-   "name": "inflate64",
+   "downloads": 12302559,
+   "name": "tree-sitter-bash",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 8496600,
-   "name": "tree-sitter-java",
+   "downloads": 12176440,
+   "name": "obstore",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 8412760,
-   "name": "python-bidi",
+   "downloads": 12146356,
+   "name": "pikepdf",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 8409796,
+   "downloads": 12031537,
+   "name": "clickhouse-driver",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 11588675,
+   "name": "patchelf",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 11555572,
+   "name": "memray",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 11499417,
    "name": "jaxlib",
    "css_class": "warning",
    "icon": "\u2717",
@@ -2049,55 +1937,7 @@
    "rise_registry": false
   },
   {
-   "downloads": 8348079,
-   "name": "nvidia-cufile-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 8288432,
-   "name": "dependency-injector",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 8260828,
-   "name": "opencv-contrib-python",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 8193650,
-   "name": "autobahn",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 8161215,
-   "name": "tree-sitter-c-sharp",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 8118895,
-   "name": "osqp",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 8107996,
+   "downloads": 11476677,
    "name": "rtree",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -2105,383 +1945,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 8033670,
-   "name": "tree-sitter-go",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 8030713,
-   "name": "lancedb",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 7977606,
-   "name": "pyrefly",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 7951734,
-   "name": "libclang",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 7903095,
-   "name": "tree-sitter-rust",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 7726838,
-   "name": "zstd",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 7554562,
-   "name": "burner-redis",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 7438801,
-   "name": "bottleneck",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 7151189,
-   "name": "highspy",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 7146644,
-   "name": "arro3-core",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 7107428,
-   "name": "thriftpy2",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 7105473,
-   "name": "cytoolz",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 6971721,
-   "name": "cvxpy",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6967402,
-   "name": "scs",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6872914,
-   "name": "clarabel",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6770099,
-   "name": "python-calamine",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6682584,
-   "name": "chromadb",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6674429,
-   "name": "firecrawl-anydoc",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6592215,
-   "name": "textual-speedups",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6465093,
-   "name": "lru-dict",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6380108,
-   "name": "pyyaml-ft",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6379631,
-   "name": "audioop-lts",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 6326970,
-   "name": "pyahocorasick",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6318464,
-   "name": "optree",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 6217068,
-   "name": "ortools",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 6180914,
-   "name": "ciso8601",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 6074930,
-   "name": "pglast",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5917374,
-   "name": "python-crfsuite",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5770564,
-   "name": "whenever",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 5747532,
-   "name": "tree-sitter-ruby",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5719639,
-   "name": "jsonschema-rs",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5719226,
-   "name": "torchaudio",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5700825,
-   "name": "jq",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5652569,
-   "name": "rustworkx",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5597270,
-   "name": "livekit",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 5519698,
-   "name": "pulp",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5480041,
-   "name": "openai-harmony",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5432750,
-   "name": "z3-solver",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
-   "rise_registry": false
-  },
-  {
-   "downloads": 5427025,
-   "name": "apache-tvm-ffi",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5419447,
-   "name": "sqlite-vec",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5390413,
-   "name": "numcodecs",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5389031,
-   "name": "tree-sitter-yaml",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5359497,
-   "name": "tree-sitter-php",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5344320,
-   "name": "catboost",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 5247726,
-   "name": "lmnr-claude-code-proxy",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5238172,
-   "name": "pyqwest",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 5183783,
-   "name": "nvidia-nvshmem-cu12",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 5175136,
+   "downloads": 11378459,
    "name": "nemo-relay",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -2489,103 +1953,191 @@
    "rise_registry": true
   },
   {
-   "downloads": 5126267,
-   "name": "ckzg",
+   "downloads": 11125622,
+   "name": "jellyfish",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 5126027,
-   "name": "rasterio",
+   "downloads": 11063032,
+   "name": "pyppmd",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 5122655,
-   "name": "timezonefinder",
+   "downloads": 11044656,
+   "name": "inflate64",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 5103994,
-   "name": "selectolax",
+   "downloads": 10998714,
+   "name": "resvg-py",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 5096018,
-   "name": "py-rust-stemmers",
+   "downloads": 10915516,
+   "name": "pybcj",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 4982248,
-   "name": "numpy-financial",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 4901455,
-   "name": "tree-sitter-cpp",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4816957,
-   "name": "pi-heif",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4808151,
-   "name": "mistral-vibe",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 4794896,
-   "name": "rdkit",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4749873,
-   "name": "pygit2",
+   "downloads": 10909595,
+   "name": "audioop-lts",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 4734176,
-   "name": "html-to-markdown",
+   "downloads": 10711436,
+   "name": "primp",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 4713694,
+   "downloads": 10700602,
+   "name": "firecrawl-anydoc",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 10620100,
+   "name": "cytoolz",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 10522015,
+   "name": "dependency-injector",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 10470723,
+   "name": "pyqwest",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 10468136,
+   "name": "pyinstaller",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 10313901,
+   "name": "pglast",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 10139811,
+   "name": "pyrefly",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 9930383,
+   "name": "burner-redis",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 9863748,
+   "name": "shap",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 9808426,
+   "name": "python-bidi",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 9679697,
+   "name": "deltalake",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 9616475,
+   "name": "python-calamine",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 9548572,
+   "name": "tree-sitter-c",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 9400055,
+   "name": "autobahn",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 9127463,
+   "name": "pyinstrument",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 9000570,
+   "name": "xmlsec",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 8992964,
    "name": "ezdxf",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -2593,87 +2145,151 @@
    "rise_registry": true
   },
   {
-   "downloads": 4700233,
-   "name": "tach",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4686514,
-   "name": "pipdeptree",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4647182,
-   "name": "uamqp",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4624177,
-   "name": "nvidia-cutlass-dsl-libs-base",
+   "downloads": 8981970,
+   "name": "nvidia-cufile-cu12",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 4566384,
-   "name": "python-box",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 4523950,
-   "name": "xgrammar",
+   "downloads": 8870379,
+   "name": "libclang",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 4492184,
-   "name": "tensorflow-text",
+   "downloads": 8823613,
+   "name": "opencv-contrib-python",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 8551066,
+   "name": "bottleneck",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 8502921,
+   "name": "chromadb",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 8329817,
+   "name": "tree-sitter-java",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 8318302,
+   "name": "tree-sitter-languages",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 8272668,
+   "name": "thriftpy2",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 8060651,
+   "name": "zstd",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 8046354,
+   "name": "jsonschema-rs",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 8017577,
+   "name": "tree-sitter-go",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 7965513,
+   "name": "openai-harmony",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 7962384,
+   "name": "lancedb",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 7918491,
+   "name": "tree-sitter-c-sharp",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 7908314,
+   "name": "tree-sitter-rust",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 7691092,
+   "name": "ortools",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 4378877,
-   "name": "backports-zoneinfo",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 4275241,
-   "name": "pylsqpack",
+   "downloads": 7663323,
+   "name": "arro3-core",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 4238988,
-   "name": "glfw",
+   "downloads": 7489403,
+   "name": "python-crfsuite",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 4221198,
+   "downloads": 7270702,
    "name": "zizmor",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -2681,31 +2297,191 @@
    "rise_registry": true
   },
   {
-   "downloads": 4215514,
-   "name": "aioquic",
+   "downloads": 7250539,
+   "name": "rdkit",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 4208592,
-   "name": "llguidance",
+   "downloads": 7224385,
+   "name": "z3-solver",
    "css_class": "success",
    "icon": "\u2713",
    "riscv64_wheel": true,
    "rise_registry": false
   },
   {
-   "downloads": 4200928,
-   "name": "cuda-core",
+   "downloads": 7078511,
+   "name": "sqlite-vec",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 7071098,
+   "name": "rustworkx",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 7003651,
+   "name": "catboost",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 4177345,
+   "downloads": 6964898,
+   "name": "apache-tvm-ffi",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6896455,
+   "name": "pyahocorasick",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6857863,
+   "name": "tree-sitter-yaml",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6849091,
+   "name": "py-rust-stemmers",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6837973,
+   "name": "livekit",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 6760739,
+   "name": "rasterio",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6728960,
+   "name": "numcodecs",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6712609,
+   "name": "optree",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 6660959,
+   "name": "protobuf-py-ext",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6624330,
+   "name": "ciso8601",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6614092,
+   "name": "crc32c",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 6564499,
+   "name": "pulp",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6556385,
+   "name": "highspy",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6429889,
+   "name": "timezonefinder",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6400602,
+   "name": "osqp",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6343782,
+   "name": "jq",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6320346,
+   "name": "lru-dict",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6258496,
+   "name": "selectolax",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 6227334,
    "name": "biopython",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -2713,71 +2489,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 4169896,
-   "name": "tree-sitter-language-pack",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4131446,
-   "name": "mujoco",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4127148,
-   "name": "polyleven",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4084307,
-   "name": "prophet",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 4080323,
-   "name": "logbook",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4036185,
-   "name": "newrelic",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 4010405,
-   "name": "pycurl",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 3977957,
-   "name": "pinecone",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 3966953,
+   "downloads": 6225791,
    "name": "shellcheck-py",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -2785,47 +2497,7 @@
    "rise_registry": true
   },
   {
-   "downloads": 3879681,
-   "name": "ua-parser-rs",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 3864199,
-   "name": "patchright",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 3822576,
-   "name": "clang-format",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 3735373,
-   "name": "problog",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
-   "downloads": 3733662,
-   "name": "cassandra-driver",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
-   "downloads": 3710187,
+   "downloads": 5972453,
    "name": "pyiceberg-core",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
@@ -2833,39 +2505,343 @@
    "rise_registry": true
   },
   {
-   "downloads": 3704428,
-   "name": "statsig-python-core",
+   "downloads": 5936793,
+   "name": "whenever",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 5921325,
+   "name": "ckzg",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 3693784,
-   "name": "outlines-core",
+   "downloads": 5894608,
+   "name": "tach",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 3682021,
-   "name": "tzfpy",
+   "downloads": 5791032,
+   "name": "numpy-financial",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 5738397,
+   "name": "python-box",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 5669273,
+   "name": "tree-sitter-cpp",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 3678950,
-   "name": "python-rapidjson",
+   "downloads": 5619882,
+   "name": "nvidia-cutlass-dsl-libs-base",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 5607741,
+   "name": "torchaudio",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   },
   {
-   "downloads": 3647181,
+   "downloads": 5598253,
+   "name": "tree-sitter-language-pack",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5589446,
+   "name": "pyside6-essentials",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 5568922,
+   "name": "pipdeptree",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5502152,
+   "name": "glfw",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5490869,
+   "name": "pyyaml-ft",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5464772,
+   "name": "mujoco",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5393069,
+   "name": "vtk",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5368492,
+   "name": "pi-heif",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5265446,
+   "name": "xgrammar",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5260289,
+   "name": "cuda-core",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 5233044,
+   "name": "clarabel",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5197017,
+   "name": "nvidia-nvshmem-cu12",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 5179442,
+   "name": "shiboken6",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5174118,
+   "name": "cvxpy",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5125388,
+   "name": "pycurl",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5118102,
+   "name": "scs",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5106389,
+   "name": "regress",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 5106141,
+   "name": "pygit2",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 5045169,
+   "name": "crcmod-plus",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 5038145,
+   "name": "llguidance",
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
+  },
+  {
+   "downloads": 4958934,
+   "name": "polyleven",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4901080,
+   "name": "lmnr-claude-code-proxy",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4810350,
+   "name": "tree-sitter-ruby",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4781839,
+   "name": "patchright",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 4699103,
+   "name": "tree-sitter-php",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4656715,
+   "name": "cftime",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4644099,
+   "name": "uamqp",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4635795,
+   "name": "backports-zoneinfo",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 4625411,
+   "name": "docling-parse",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4621079,
+   "name": "livekit-blingfire",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4609970,
+   "name": "newrelic",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4575831,
+   "name": "tensorflow-text",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 4569213,
+   "name": "pylance",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4544105,
+   "name": "lingua-language-detector",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4487479,
    "name": "torch-c-dlpack-ext",
    "css_class": "warning",
    "icon": "\u2717",
@@ -2873,13 +2849,37 @@
    "rise_registry": false
   },
   {
-   "downloads": 3618666,
-   "name": "mitmproxy-rs",
+   "downloads": 4431886,
+   "name": "djlint",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 4425537,
+   "name": "pyside6-addons",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 4407606,
+   "name": "nvidia-cuda-cccl",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 4383479,
+   "name": "torchcodec",
    "css_class": "rise",
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
   }
  ],
- "last_update": "Saturday, 31 October 2026, 15:37:28 UTC"
+ "last_update": "Sunday, 01 November 2026, 16:33:29 UTC"
 }

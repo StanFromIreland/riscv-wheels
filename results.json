@@ -2601,14 +2601,6 @@
    "rise_registry": true
   },
   {
-   "downloads": 5464772,
-   "name": "mujoco",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
    "downloads": 5393069,
    "name": "vtk",
    "css_class": "rise",
@@ -2879,7 +2871,15 @@
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
+  },
+  {
+   "downloads": 4358493,
+   "name": "pylsqpack",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
   }
  ],
- "last_update": "Friday, 06 November 2026, 10:06:38 UTC"
+ "last_update": "Saturday, 07 November 2026, 10:06:37 UTC"
 }
